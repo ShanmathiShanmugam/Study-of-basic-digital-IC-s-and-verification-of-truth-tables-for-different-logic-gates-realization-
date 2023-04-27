@@ -77,10 +77,14 @@ nand(y6,a,b);
 nor(y7,a,b);
 endmodule
 ```
-Logic symbol & Truthtable
+# Logic symbol & Truthtable
+![Screenshot (59)](https://user-images.githubusercontent.com/121243595/234766976-1998352e-813f-4044-9083-dc5176cc72f4.png)
+
+
 RTL realization
 
 Output:
+
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/121243595/234765359-0f7b1bc0-57ff-4458-ac55-4d1b30986ea5.png)
 RTL
