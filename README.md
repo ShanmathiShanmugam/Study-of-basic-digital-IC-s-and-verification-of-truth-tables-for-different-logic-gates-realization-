@@ -79,7 +79,9 @@ endmodule
 ```
 Logic symbol & Truthtable
 RTL realization
+
 Output:
+
 ![Screenshot (59)](https://user-images.githubusercontent.com/121243595/234765359-0f7b1bc0-57ff-4458-ac55-4d1b30986ea5.png)
 RTL
 
